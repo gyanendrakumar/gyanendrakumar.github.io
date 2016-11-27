@@ -1,0 +1,17 @@
+<body style="background-color:#F5F5F5;" >
+<br><br>
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4" style="background-color:;">
+                <div class="well">Basic Well</div></div>
+    <div class="col-sm-8" style="background-color:;"><div class="well"  style="background-color:white; height:500px" >Basic Well</div> </div>
+  </div>
+</div>
+   
+</body>
+
+
+Hi My name is kumar linving in Bangalore ,India
+I am a full stack developer with over 5+ years of experience  in web development and programming.
+I worked on  Analysis & Requirement gathering , Designing,development,Unit Testing and deployment of multiple projects.
+I have very good experience in Microsoft technologies and open source development and tools.

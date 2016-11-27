@@ -1,0 +1,47 @@
+﻿
+
+
+body {
+    background-color:#eee;
+    font-family: Microsoft Sans Serif;
+	 /*
+	 background: url('../images/gyan4.jpg') no-repeat 0 50%; */
+}
+
+#Image {
+    background: url('../images/gyan1.jpg');
+    border-radius: 200px;
+    width: 200px;
+    height: 200px;
+    background-size: 280px;
+    background-position: right;
+}
+
+
+.footer {
+   /*  position: absolute;*/
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+   /*  height: 200px;*/
+    background-color: #222;
+    padding: 30px;
+   
+	
+} 
+
+
+#Image2 {
+    /* background: url('../images/gyan4.jpg') no-repeat 0 50%; */
+}
+
+.jumbotron1 {
+    position: relative;
+    background: #000 url('../images/gyan4.jpg') center center;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    overflow: hidden;
+	opacity: 0.2;
+    filter: alpha(opacity=50); 
+}
